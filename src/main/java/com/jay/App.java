@@ -15,19 +15,6 @@ public class App extends Application<PMSConfiguration> {
 
     @Override
     public void initialize(Bootstrap<PMSConfiguration> bootstrap) {
-//        bootstrap.addBundle(new SwaggerBundle<PMSConfiguration>() {
-//            @Override
-//            protected SwaggerBundleConfiguration getSwaggerBundleConfiguration(PMSConfiguration pmsConfiguration){
-//                return pmsConfiguration.swaggerBundleConfiguration;
-//            }
-//        });
-//        bootstrap.addBundle(new MigrationsBundle<PMSConfiguration>() {
-//            @Override
-//            public PooledDataSourceFactory getDataSourceFactory(final PMSConfiguration configuration){
-//                return configuration.getDataSourceFactory();
-//            }
-//        });
-//        bootstrap.addBundle(new AssetsBundle("/asset/"));
     }
 
     @Override
