@@ -1,4 +1,4 @@
-#Pre-requisites
+<h1>Pre-requisites</h1>
 
 MYSQL database: 
 Update the config.yaml if your configuration differs. In this example, i use
